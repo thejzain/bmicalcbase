@@ -1,18 +1,33 @@
-# bmicalcadv
+## BMI Calculator
 
-A new Flutter project.
+This is a simple BMI calculator app built with Flutter.
 
-## Getting Started
+**Features:**
 
-This project is a starting point for a Flutter application.
+* Calculate your BMI based on your height and weight in meters and kilograms.
+* Get a feedback message based on your BMI.
+* Choose between male and female.
 
-A few resources to get you started if this is your first Flutter project:
+**Usage:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Enter your height in meters and weight in kilograms.
+2. Choose your gender.
+3. Click the "Submit" button.
+4. Your BMI and a feedback message will be displayed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Installation:**
 
-A basic BMI calculating app which only do is shows the calculated value
+To install and run the app, clone this repository and run the following commands:
+
+```
+flutter pub get
+flutter run
+```
+
+**Contributing:**
+
+If you would like to contribute to the app, please fork the repository and create a pull request with your changes.
+
+**License:**
+
+This app is licensed under the MIT License.
